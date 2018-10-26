@@ -1,3 +1,3 @@
-console.log("saowalak")
-console.log("muangjan")
-console.log("6039010024")
+console.log("เสาวลักษณ์")
+console.log("เมืองจันทร์")
+console.log("ซีตอง")
