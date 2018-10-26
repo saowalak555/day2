@@ -1,3 +1,4 @@
-console.log("saowalak")
-console.log("muangjan")
-console.log("6039010024")
+
+console.log("5555")
+console.log("555555")
+console.log("5555")
